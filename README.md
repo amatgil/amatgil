@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @amatgil (casenc)
-- 👀 I’m interested in: python!
-- 🌱 I’m currently learning: python and window managers.
-- 💞️ I’m looking to collaborate on: Not much, mainly python!
+- 👀 I’m interested in: rust-lang!
+- 🌱 I’m currently learning: rust-lang.
+- 💞️ I’m looking to collaborate on: Everything I can get my hands on
 - 📫 How to reach me: by shooting me an email! amattablet@gmail.com
 
 <!---
