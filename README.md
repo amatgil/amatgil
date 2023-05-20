@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @amatgil (casenc)
+- 👋 Hi, I’m @amatgil 
 - 👀 I’m interested in: rust-lang!
 - 🌱 I’m currently learning: rust-lang.
 - 💞️ I’m looking to collaborate on: Everything I can get my hands on
