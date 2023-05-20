@@ -2,7 +2,7 @@
 - 👀 I’m interested in: rust-lang!
 - 🌱 I’m currently learning: rust-lang.
 - 💞️ I’m looking to collaborate on: Everything I can get my hands on
-- 📫 How to reach me: by shooting me an email! amattablet@gmail.com
+- 📫 How to reach me: by shooting me an email! amatgilvinyes@gmail.com
 
 <!---
 amatgil/amatgil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
