@@ -2,7 +2,7 @@ Hello there! My name is Amat Gil (/amat/, /am'ad͡ʒil/), and you've stumbled in
 
 I'm mostly interested in Rust (the language) and backend development at the moment, as my profile likely reflects; and I consider C/C++ to be deprecated.
 
-More information and showcases and such over at (My site)[https://amatgil.cat].
+More information and showcases and such over at [my personal website](https://amatgil.cat).
 
 <!---
 amatgil/amatgil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
