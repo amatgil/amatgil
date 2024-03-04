@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @amatgil 
-- 👀 I’m interested in: rust-lang!
-- 🌱 I’m currently learning: rust-lang.
-- 💞️ I’m looking to collaborate on: Everything I can get my hands on
-- 📫 How to reach me: by shooting me an email! amatgilvinyes@gmail.com
+Hello there! My name is Amat Gil (/amat/, /am'ad͡ʒil/), and you've stumbled into my GitHub profile! Feel free to look around and play, there's also a napping area included if that's more your jam.
+
+I'm mostly interested in Rust (the language) and backend development at the moment, as my profile likely reflects; and I consider C/C++ to be deprecated.
+
+More information and showcases and such over at (My site)[https://amatgil.cat].
 
 <!---
 amatgil/amatgil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
